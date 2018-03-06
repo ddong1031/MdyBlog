@@ -13,8 +13,8 @@
 
 
 # 开源的项目我就不添加了，很多项目都已经成为公司的，存在版权问题
-# 这里只写一些总结性的知识，觉得不错请给我一个 Star
-## https://github.com/ddong1031/MyBlog/issues
+# 这里只写一些总结性的知识
+## https://github.com/ddong1031/MdyBlog/issues
 ## 有时间就更新^_^
 
 
